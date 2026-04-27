@@ -30,7 +30,9 @@ passwordStyle.css    # Styling
 passwordtest.js    # Core logic (regex, hashing, API fetch)
 
 ---
-
+## Demo
+![Demo of Password Portal](demo1.png)
+![Demo of Password Portal](demo2.png)
 
 
 ---
